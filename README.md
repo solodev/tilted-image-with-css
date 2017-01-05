@@ -3,7 +3,7 @@ Adding interactivity to your website is always a value add. Static images are bo
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Adding a Tilt to your Images onHover with CSS](https://www.solodev.com/blog/web-design/adding-a-tilt-to-your-images-onhover-with-css.stml) article.
+For detailed instructions, view Solodev's [Adding a Tilt to your Images onHover with CSS](https://www.solodev.com/blog/web-design/adding-a-tilt-to-your-images-on-hover-with-css.stml) article.
 
 ## Demo
 
